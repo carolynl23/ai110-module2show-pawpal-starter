@@ -5,7 +5,7 @@
 **a. Initial design**
 
 - Briefly describe your initial UML design.
-    - pet app
+    - pet app organized
 - What classes did you include, and what responsibilities did you assign to each?
  - should be able to add a pet, schedule a walk, see today's tasks
 
